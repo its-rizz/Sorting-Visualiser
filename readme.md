@@ -48,7 +48,7 @@ A beautiful, interactive web application that visualizes 10 different sorting al
 ### Installation
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/sorting-visualizer.git
+   git clone https://github.com/its-rizz/Sorting-Visualizer.git
    cd sorting-visualizer
 
 2. **Open the application**
@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **GitHub**: its-rizz (https://github.com/its-rizz)
+- **Email**: rizwan.ahmed7801@gmail.com
+- **LinkedIn**: [[Your Name](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/md-rizwan-ahmad-3736b61bb/)
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
