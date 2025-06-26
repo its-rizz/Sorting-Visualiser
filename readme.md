@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub**: its-rizz (https://github.com/its-rizz)
 - **Email**: rizwan.ahmed7801@gmail.com
-- **LinkedIn**: [[Your Name](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/md-rizwan-ahmad-3736b61bb/)
+- **LinkedIn**: [MD RIZWAN AHMAD](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/md-rizwan-ahmad-3736b61bb/)
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
